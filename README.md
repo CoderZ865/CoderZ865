@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me 💫
+
+- 🔭 I’m currently a B.Tech Student passionate about Cybersecurity, Open Source & Community Building
+- 🌱 I’m Currently exploring CTFs, Network Security, and Full Stack Development
+- 😄 Goal: Making technology more secure and accessible for everyone
+
+
+
