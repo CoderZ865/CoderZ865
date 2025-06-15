@@ -39,11 +39,11 @@ My journey started with small Figma posters and a curious mind. Now I’m slowly
 ## 🛠️ Projects & Hackathons
 
 ### 🔐 LoggedIt  
-Built during ARCANE Hackathon — a simple tool for organizing and retrieving industrial log data.  
-🟣 Won 2nd place at IEEE SB CEC 2024
+Built during ARCANE(IEEE SB CEC) Hackathon 2024 — a simple tool for organizing and retrieving industrial log data.  
+🟣 Won 2nd place 
 
 ### 🛰️ SpaceOdyssee  
-NASA Space Apps Challenge project — honored with an official mention.  
+NASA Space Apps Challenge project — Got Global Honourable Mention  
 🌍 Worked with a team to create something meaningful with space data  
 🔗 [spaceodyssee.earth](https://spaceodyssee.earth/)
 
@@ -51,8 +51,7 @@ NASA Space Apps Challenge project — honored with an official mention.
 A mini DBMS project where I worked on both the backend logic and basic frontend.
 
 ### 🛒 Market Basket Analysis  
-Explored association rules and patterns in retail data.  
-R, tidyverse, and a good amount of learning-by-doing.
+Explored association rules and patterns in retail data.
 
 ---
 
