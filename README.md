@@ -29,6 +29,13 @@ My journey started with small Figma posters and a curious mind. Now I’m slowly
 
 ---
 
+## 🦾 Exprience
+
+- Made my start designing posters and social media content for college clubs like ISTE, IEEE MACE SB, and Encide  
+- Worked on tech and art fests Takshak '24 and Sanskriti '25 — creating designs with a lot of heart
+- Also Worked on Hackathons - Hack-a-addict, Tink-her-hack 3.0
+- Now I lead design efforts at ISTE, helping shape visual identity
+
 ## 🛠️ Projects & Hackathons
 
 ### 🔐 LoggedIt  
